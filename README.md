@@ -9,15 +9,21 @@ You can add more features to it
 
 
     pip install python == 3.9.5
- 
+
+,
+
     pip install pyttsx3
+,
 
     pip install speech_recognition
-    
+,
+
     pip install pywhatkit
-    
+,
+
     pip install wikipedia
-    
+,
+
     pip install webbrowser
     
 * Extract the Zip file in C-drive
