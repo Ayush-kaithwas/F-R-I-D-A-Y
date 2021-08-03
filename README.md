@@ -15,7 +15,7 @@ You can add more features to it
     pip install pyttsx3
 ,
 
-    pip install speech_recognition
+    pip install SpeechRecognition
 ,
 
     pip install pywhatkit
