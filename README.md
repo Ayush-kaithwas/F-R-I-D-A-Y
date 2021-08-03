@@ -12,16 +12,16 @@ You can add more features to it
 
 ,
 
-    pip install pyttsx3
+    pip install pyttsx3 ==  2.90
 ,
 
-    pip install SpeechRecognition
+    pip install SpeechRecognition ==  3.8.1
 ,
 
-    pip install pywhatkit
+    pip install pywhatkit ==  5.1
 ,
 
-    pip install wikipedia
+    pip install wikipedia ==  1.4.0
 
     
 * Extract the Zip file in C-drive
