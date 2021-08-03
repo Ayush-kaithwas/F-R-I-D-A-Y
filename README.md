@@ -22,9 +22,7 @@ You can add more features to it
 ,
 
     pip install wikipedia
-,
 
-    pip install webbrowser
     
 * Extract the Zip file in C-drive
 * Open cmd and type "cd" then give the path of the "Friday.py" file inside folder("F-R-I-D-A-Y")
