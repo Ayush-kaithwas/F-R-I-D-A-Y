@@ -78,9 +78,9 @@ def username():
     usname = takecommand()
     speak("Welcome Mister")
     speak(usname)     
-    print("#####################")
+    print("====================")
     print("Welcome Mr.", usname)
-    print("#####################")
+    print("====================")
      
     speak("How can i Help you, Sir")
 
