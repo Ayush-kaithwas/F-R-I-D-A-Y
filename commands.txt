@@ -51,6 +51,5 @@ What you can ask!
 35-> who are you
 36-> good morning jarvis
 37-> will you be my gf
-38-> how are you
+38-> How are you
 39-> i love you 
-40-> How are you
